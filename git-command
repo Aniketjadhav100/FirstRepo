@@ -1,0 +1,9 @@
+git init
+git add
+git commit -m " "
+git push
+git pull
+git revert
+git rm  --cached
+git restore filename
+git clone
